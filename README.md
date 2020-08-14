@@ -2,13 +2,13 @@
 
 Horiseon's webpage required refactoring. The page and its code are made to be more concise and user-friendly. 
 
-*The content and aside no longer lose formatting and position if the browser window were resized. 
-*The links now remain on the header background field and change attributes with hover, click, and visited. 
-*Image alt text added for search engine optimization and accessibility as outlined by Web Content Assessibility Guidelines. 
-*Header background image resized for easier loading.
-*Semantic Elements used to minimize confusion in layout.
-*CSS elements combined where appropriate for more concise styling.
-*Positions formatting changed for smoother transitions in size and accessibility purposes.
+* The content and aside no longer lose formatting and position if the browser window were resized. 
+* The links now remain on the header background field and change attributes with hover, click, and visited. 
+* Image alt text added for search engine optimization and accessibility as outlined by Web Content Assessibility Guidelines. 
+* Header background image resized for easier loading.
+* Semantic Elements used to minimize confusion in layout.
+* CSS elements combined where appropriate for more concise styling.
+* Positions formatting changed for smoother transitions in size and accessibility purposes.
 
 ## Instructions
 
